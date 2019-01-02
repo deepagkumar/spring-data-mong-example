@@ -1,4 +1,4 @@
-# spring-data-mong-example
+# spring-data-mongodb-example
 Sample repository for using Spring boot with mongodb. This is completely annotation based configuration. This project contains a simple crud flow for a "Product" entity.
 
 # To run this
